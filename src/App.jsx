@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { RotateCcw, AlertCircle, Send, Loader2, CheckCircle2 } from 'lucide-react';
 
 // ⚠️ הדבק/י כאן את ה-Web App URL מ-Google Apps Script:
-const WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbz497YxYAavulPofY01-lHq2-2xJ_8ZgO-DmCZAzUgIVcCMHOCTuuwS2sGq0SYMRdTv/exec";
+   const WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbz9yRHAtWo0CbOP-oCM3bOx5Dp1kD1oeZwRREy37mYkZHYCV0AlmMZ504CGC6vIbdxz/exec";
 
 // כתובת המייל לפניות בנושא פרטיות (מופיעה בסעיף ההסכמה):
 const FYM_EMAIL = "misrad.fym@gmail.com";
